@@ -1,0 +1,16 @@
+﻿.btn-jci-blue, .btn-jci-blue:link{
+	background: #003594;
+    color: #ffffff;
+    border-color: #003594;
+}
+
+
+.btn-jci-blue:hover { 
+  border-color: #84bd00; 
+  background-color: #84bd00; 
+}
+
+.btn-jci-blue:active, .btn-jci-blue:visited { 
+  border-color: #84bd00 !important; 
+  background-color: #84bd00 !important; 
+}
